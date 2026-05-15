@@ -1,8 +1,8 @@
-## Hi there, I'm Miles 👋
+## Hi there, i'm Miles 👋
 
 
-i'm 20 years old and a sophmore studying SWE at UC Irvine 🐜.
+i'm 20 years old, and a sophmore studying SWE at UC Irvine 🐜
 
-- 💻 I like building things
+💻 i like building things
 
-- 📫 Feel feel to reach me at [urquidim@uci.edu](mailto:urquidim@uci.edu)
+📫 feel free to reach me at [urquidim@uci.edu](mailto:urquidim@uci.edu)
