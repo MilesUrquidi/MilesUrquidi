@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Miles 👋
 
-<!--
-**MilesUrquidi/MilesUrquidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+i'm 20 years old and a sophmore studying SWE at UC Irvine 🐜.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I like building things
+- 🤝 Open to collaborating on interesting ideas
+
+## Featured Links
+
+- 📫 Connect with me on GitHub: [@MilesUrquidi](https://github.com/MilesUrquidi)
+
+---
+
+> To make this show on your GitHub profile, this `README.md` must be in a **public repository named exactly `MilesUrquidi`**.
